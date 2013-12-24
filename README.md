@@ -3,7 +3,7 @@ ECE281_CE1
 
 Capt Silva's lame circuit
 
-'''markdown
+```markdown
 # Header
-'''
+```
 # Header
